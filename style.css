@@ -70,3 +70,6 @@ h1{margin:0 auto;max-width:820px;font-size:clamp(30px,6vw,54px)}
 .foot a{color:var(--muted)}
 .fan{max-width:760px}
 @media (max-width:560px){.clock{gap:6px}.clock div{padding:12px 2px 10px;border-radius:12px}.clock span{font-size:11px}nav a{padding:6px 8px;font-size:14px}.hero{padding-top:30px}}
+.cast .pic{flex:none;width:72px;height:72px;border-radius:50%;object-fit:cover;object-position:50% 20%;background:#1f3a2a;border:2px solid #2f5a40}
+.cast .credit{margin-top:6px;font-size:12px;line-height:1.4;color:#7f9688}
+.cast .credit a{color:#7f9688}
